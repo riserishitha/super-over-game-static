@@ -1,2 +1,2 @@
 var name ='N.Rishitha';
-var squad='squad 60'; 
+var squad ='squad 60'; 
